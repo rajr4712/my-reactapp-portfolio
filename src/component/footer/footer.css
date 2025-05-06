@@ -7,8 +7,7 @@
     padding: 2rem 0;
 }
 
-.footer_title,
-.footer_link{
+.footer_title,.footer_link{
     color: var(--title-color);
 }
 

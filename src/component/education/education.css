@@ -4,6 +4,11 @@
     padding-bottom: 50px;
 }
 
+.experience-skill {
+    display: flex;
+    justify-content: space-between;
+
+}
 .qualification_sections {
     padding-bottom: 30px;
     padding-top: 30px;
@@ -35,7 +40,7 @@
 
 .qualification_sections {
     display: grid;
-    grid-template-columns: 0.5fr;
+    grid-template-columns: 0.7fr;
     justify-content: center;
 }
 

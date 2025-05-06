@@ -1,6 +1,6 @@
 import React from "react";
 // import AboutImg from "../../assets/profile.jpg";
-import AboutImg from "../../assets/Myprofile.png"
+import AboutImg from "../../assets/my-phots.jpeg";
 
 
 import Info from "./info";
@@ -19,8 +19,12 @@ const About = () => {
                     <Info />
 
                     <p className="about_description">
-                    " I am a skilled ReactJS and Front-End Developer with a passion for creating visually appealing and user-friendly web applications. With experience in HTML, CSS, JavaScript, Tailwind Css, React , Redux and other front-end technologies, I am dedicated to delivering high-quality code that meets the needs of clients and end-users alike. Built 14+ projects Using React, Redux, js and tailwind CSS . Passionate
-                    about learning new things , result driven, meeting new people and exploring new experience. Currently learing Backend where learning node js , express js, mongoDB, cloudinary , and working on Study Notion Mega project.
+                    I have approximately 2 years of strong experience in front-end development, specializing in HTML5, CSS3, JavaScript,bootstrap and React.js.
+                     I have designed and developed responsive, user-centric web applications by closely collaborating with UI/UX design teams
+                      to translate design concepts into seamless user interfaces. And backend development teams to integrate APIs and ensure smooth end-to-end functionality.
+                    {/* " I am a skilled ReactJS and Front-End Developer with a passion for creating visually appealing and user-friendly web applications. With experience in HTML, CSS, JavaScript, Tailwind Css, React , Redux and other front-end technologies, I am dedicated to delivering high-quality code that meets the needs of clients and end-users alike. Built 14+ projects Using React, Redux, js and tailwind CSS . Passionate
+                    about learning new things , result driven, meeting new people and exploring new experience. */}
+                     
                   </p>
 
                     <a target="_blank" href="https://drive.google.com/file/d/1VAVjzMfjZ6jkERIK9x7G-Pvu-px5UTiI/view?usp=sharing" 
