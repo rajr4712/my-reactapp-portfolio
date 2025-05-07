@@ -38,9 +38,9 @@ const App = () => {
           <>                                                 {/*if loading false then show all component */}
           <main className="main">
             <Header />
-            <Home />
-            <About />
-            <Skills />
+            <Home/>
+            <About/>
+            <Skills/>
             <Education />
             <Project />
             <Contact />
