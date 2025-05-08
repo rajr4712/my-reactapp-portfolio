@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-portfolio-project/static/css/main.7a73005d.css",
-    "main.js": "/my-portfolio-project/static/js/main.bf811a31.js",
-    "static/media/Weather-App-project.gif": "/my-portfolio-project/static/media/Weather-App-project.4696a264e7f7382988c9.gif",
-    "static/media/MakeMy-tripJourney-project.gif": "/my-portfolio-project/static/media/MakeMy-tripJourney-project.7ca6a4e0009e22adba70.gif",
-    "static/media/Random-Gif-generator.gif": "/my-portfolio-project/static/media/Random-Gif-generator.91f3957c5fa6910772d7.gif",
-    "static/media/Ekart-Ecommerse-Website.gif": "/my-portfolio-project/static/media/Ekart-Ecommerse-Website.366fc8b09ec476b0a504.gif",
-    "static/media/discord-clone.gif": "/my-portfolio-project/static/media/discord-clone.50afba77ad553a86872f.gif",
-    "static/media/Top Course-Project.gif": "/my-portfolio-project/static/media/Top Course-Project.6e8ee639e2101a056dfa.gif",
-    "static/media/Github profile search project.gif": "/my-portfolio-project/static/media/Github profile search project.6546b67e244bd59fccd2.gif",
-    "static/media/ModernChair-Project.gif": "/my-portfolio-project/static/media/ModernChair-Project.985d680d3da5c93b2677.gif",
-    "static/media/Blob-profile.jpg": "/my-portfolio-project/static/media/Blob-profile.0d865cc76c78e64379ad.jpg",
-    "static/media/my-phots.jpeg": "/my-portfolio-project/static/media/my-phots.5b2d1e9f8825ad8346c3.jpeg",
-    "static/media/github.gif": "/my-portfolio-project/static/media/github.ccf3c3b51e2fa72c48b8.gif",
-    "static/media/moon.svg": "/my-portfolio-project/static/media/moon.481d615c7947ab90c3dd137a003f1b86.svg",
-    "index.html": "/my-portfolio-project/index.html",
-    "static/media/sun.svg": "/my-portfolio-project/static/media/sun.c4aadee8154152322b8ad92e3d3cc9bb.svg",
-    "main.7a73005d.css.map": "/my-portfolio-project/static/css/main.7a73005d.css.map",
-    "main.bf811a31.js.map": "/my-portfolio-project/static/js/main.bf811a31.js.map"
+    "main.css": "/my-reactapp-portfolio.git/static/css/main.ade7b1a4.css",
+    "main.js": "/my-reactapp-portfolio.git/static/js/main.fd0720ba.js",
+    "static/media/Weather-App-project.gif": "/my-reactapp-portfolio.git/static/media/Weather-App-project.4696a264e7f7382988c9.gif",
+    "static/media/MakeMy-tripJourney-project.gif": "/my-reactapp-portfolio.git/static/media/MakeMy-tripJourney-project.7ca6a4e0009e22adba70.gif",
+    "static/media/Random-Gif-generator.gif": "/my-reactapp-portfolio.git/static/media/Random-Gif-generator.91f3957c5fa6910772d7.gif",
+    "static/media/Ekart-Ecommerse-Website.gif": "/my-reactapp-portfolio.git/static/media/Ekart-Ecommerse-Website.366fc8b09ec476b0a504.gif",
+    "static/media/discord-clone.gif": "/my-reactapp-portfolio.git/static/media/discord-clone.50afba77ad553a86872f.gif",
+    "static/media/Top Course-Project.gif": "/my-reactapp-portfolio.git/static/media/Top Course-Project.6e8ee639e2101a056dfa.gif",
+    "static/media/Github profile search project.gif": "/my-reactapp-portfolio.git/static/media/Github profile search project.6546b67e244bd59fccd2.gif",
+    "static/media/ModernChair-Project.gif": "/my-reactapp-portfolio.git/static/media/ModernChair-Project.985d680d3da5c93b2677.gif",
+    "static/media/Blob-profile.jpg": "/my-reactapp-portfolio.git/static/media/Blob-profile.0d865cc76c78e64379ad.jpg",
+    "static/media/my-phots.jpeg": "/my-reactapp-portfolio.git/static/media/my-phots.5b2d1e9f8825ad8346c3.jpeg",
+    "static/media/github.gif": "/my-reactapp-portfolio.git/static/media/github.ccf3c3b51e2fa72c48b8.gif",
+    "static/media/moon.svg": "/my-reactapp-portfolio.git/static/media/moon.481d615c7947ab90c3dd137a003f1b86.svg",
+    "index.html": "/my-reactapp-portfolio.git/index.html",
+    "static/media/sun.svg": "/my-reactapp-portfolio.git/static/media/sun.c4aadee8154152322b8ad92e3d3cc9bb.svg",
+    "main.ade7b1a4.css.map": "/my-reactapp-portfolio.git/static/css/main.ade7b1a4.css.map",
+    "main.fd0720ba.js.map": "/my-reactapp-portfolio.git/static/js/main.fd0720ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a73005d.css",
-    "static/js/main.bf811a31.js"
+    "static/css/main.ade7b1a4.css",
+    "static/js/main.fd0720ba.js"
   ]
 }
