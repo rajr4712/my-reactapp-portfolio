@@ -81,7 +81,7 @@ export const Data = [
         id: 9,
         image: Image9,
       
-      description: <a href="https://github.com/harshaa11th" target="_blank" className="contact_button">Click here for more<i className="bx bx-right-arrow-alt contact_button-icon"></i>
+      description: <a href="https://github.com/harshaa11th" target="_blank" rel="noreferrer" className="contact_button">Click here for more<i className="bx bx-right-arrow-alt contact_button-icon"></i>
       </a>,
       link:"https://github.com/harshaa11th"
 

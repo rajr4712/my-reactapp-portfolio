@@ -43,7 +43,7 @@ const Project = () => {
 
                             <h3 className="project_name">{title}</h3>
                             <p className="project_description">{description}</p>
-                            <a href={link} target="_blank" className="project_button">
+                            <a href={link} target="_blank" rel="noreferrer" className="project_button">
                             Check out
                             <i className="bx bx-right-arrow-alt project_button-icon"></i>
                             </a>

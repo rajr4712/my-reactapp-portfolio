@@ -34,7 +34,7 @@ const Contact = () => {
                             <h3 className="contact_card-title">E-Mail</h3>
                             <span className="contact_card-data">rajr4712@gmail.com</span>
 
-                            <a href="mailto:rajr4712@gmail.com" target="_blank" className="contact_button">Write me<i className="bx bx-right-arrow-alt contact_button-icon"></i>
+                            <a href="mailto:rajr4712@gmail.com" target="_blank" rel="noreferrer" className="contact_button">Write me<i className="bx bx-right-arrow-alt contact_button-icon"></i>
                             </a>
                         </div>
 
@@ -44,7 +44,7 @@ const Contact = () => {
                             <h3 className="contact_card-title">WhatsApp</h3>
                             <span className="contact_card-data">+91-9122156803</span>
 
-                            <a href="https://api.whatsapp.com/send?phone=917903017399&text=Hello, Rahul!" target="_blank" className="contact_button">Write me 
+                            <a href="https://api.whatsapp.com/send?phone=917903017399&text=Hello, Rahul!" target="_blank" rel="noreferrer" className="contact_button">Write me 
                             <i className="bx bx-right-arrow-alt contact_button-icon"></i>
                             </a>
                         </div>
@@ -55,7 +55,7 @@ const Contact = () => {
                             <h3 className="contact_card-title">Call to</h3>
                             <span className="contact_card-data">+91-7903017399</span>
 
-                            <a href="tel:7651979477" target="_blank" className="contact_button">Call me 
+                            <a href="tel:7651979477" target="_blank" rel="noreferrer" className="contact_button">Call me 
                             <i className="bx bx-right-arrow-alt contact_button-icon"></i> 
                             </a>
                         </div>

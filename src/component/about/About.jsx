@@ -27,7 +27,7 @@ const About = () => {
                      
                   </p>
 
-                    <a target="_blank" href="https://drive.google.com/file/d/1VAVjzMfjZ6jkERIK9x7G-Pvu-px5UTiI/view?usp=sharing" 
+                    <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1VAVjzMfjZ6jkERIK9x7G-Pvu-px5UTiI/view?usp=sharing" 
                    className="button button-flex">  {/*Resume link provided*/}
                       View Resume
                   
