@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-reactapp-portfolio.git/static/css/main.ade7b1a4.css",
-    "main.js": "/my-reactapp-portfolio.git/static/js/main.fd0720ba.js",
+    "main.js": "/my-reactapp-portfolio.git/static/js/main.c88b1ae0.js",
     "static/media/Weather-App-project.gif": "/my-reactapp-portfolio.git/static/media/Weather-App-project.4696a264e7f7382988c9.gif",
     "static/media/MakeMy-tripJourney-project.gif": "/my-reactapp-portfolio.git/static/media/MakeMy-tripJourney-project.7ca6a4e0009e22adba70.gif",
     "static/media/Random-Gif-generator.gif": "/my-reactapp-portfolio.git/static/media/Random-Gif-generator.91f3957c5fa6910772d7.gif",
@@ -17,10 +17,10 @@
     "index.html": "/my-reactapp-portfolio.git/index.html",
     "static/media/sun.svg": "/my-reactapp-portfolio.git/static/media/sun.c4aadee8154152322b8ad92e3d3cc9bb.svg",
     "main.ade7b1a4.css.map": "/my-reactapp-portfolio.git/static/css/main.ade7b1a4.css.map",
-    "main.fd0720ba.js.map": "/my-reactapp-portfolio.git/static/js/main.fd0720ba.js.map"
+    "main.c88b1ae0.js.map": "/my-reactapp-portfolio.git/static/js/main.c88b1ae0.js.map"
   },
   "entrypoints": [
     "static/css/main.ade7b1a4.css",
-    "static/js/main.fd0720ba.js"
+    "static/js/main.c88b1ae0.js"
   ]
 }
