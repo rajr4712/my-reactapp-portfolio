@@ -1,15 +1,15 @@
 import React from "react";
 
 const Frontend = () => {
-    return(
+    return (
         <div className="skills_content">
             <h3 className="skills_title">Frontend</h3>
 
             <div className="skills_box">
                 <div className="skills_group">
-                    <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
 
+                    <div className="skills_data">
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">HTML</h3>
                             <span className="skills_level">Advance</span>
@@ -17,8 +17,7 @@ const Frontend = () => {
                     </div>
 
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">CSS</h3>
                             <span className="skills_level">Advance</span>
@@ -26,142 +25,105 @@ const Frontend = () => {
                     </div>
 
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">JavaScript</h3>
                             <span className="skills_level">Intermediate</span>
                         </div>
                     </div>
 
-                    
-                <div className="skills_group">
-
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">React.js</h3>
                             <span className="skills_level">Intermediate</span>
                         </div>
                     </div>
 
-                    
-                <div className="skills_group">
-
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">Redux</h3>
                             <span className="skills_level">Intermediate</span>
                         </div>
                     </div>
 
-                    
-                <div className="skills_group">
-
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">Next.js</h3>
                             <span className="skills_level">Intermediate</span>
                         </div>
                     </div>
 
-                    
-                <div className="skills_group">
-
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">TypeScript</h3>
                             <span className="skills_level">Intermediate</span>
                         </div>
                     </div>
 
-                    
-                <div className="skills_group">
-
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">Bootstrap</h3>
                             <span className="skills_level">Advanced</span>
                         </div>
                     </div>
 
-
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">Tailwind CSS</h3>
                             <span className="skills_level">Advanced</span>
                         </div>
                     </div>
 
-                    
-                <div className="skills_group">
-
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">Material UI</h3>
                             <span className="skills_level">Advanced</span>
                         </div>
                     </div>
 
-
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">Python</h3>
                             <span className="skills_level">Intermediate</span>
                         </div>
-                    </div>          
-                </div>
+                    </div>
 
-                  
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">Git/GitHub</h3>
                             <span className="skills_level">Beginner</span>
                         </div>
                     </div>
 
-                    
-                <div className="skills_group">
-
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">Docker</h3>
                             <span className="skills_level">Intermediate</span>
                         </div>
                     </div>
 
-                    
                     <div className="skills_data">
-                        <i class="bx bx-badge-check"></i>
-
+                        <i className="bx bx-badge-check"></i>
                         <div>
                             <h3 className="skills_name">Responsive Web Design</h3>
                             <span className="skills_level">Intermediate</span>
                         </div>
                     </div>
-                </div>       
+
+                </div>
             </div>
         </div>
-    )
-}
+    );
+};
 
 export default Frontend;
