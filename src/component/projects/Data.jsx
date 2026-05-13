@@ -23,7 +23,7 @@ export const Data = [
       image: Image2,
       title: "World Atlas(React 19)",
       description:
-        "Built a responsive React 19 country explorer application with smooth UI updates using useTransition, featuring dynamic country data, real-time API integration with Axios, advanced search/filter/sort functionality, and expandable detail views optimized for a seamless user experience across devices"
+        "Built a responsive React 19 country explorer application with smooth UI updates using useTransition, featuring dynamic country data, real-time API integration with Axios, advanced search/filter/sort functionality, and expandable detail views optimized for a seamless user experience across devices",
         link:"https://world-atlas-reactapp.vercel.app/"
     },
     {
