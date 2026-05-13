@@ -1,4 +1,4 @@
-import Image2 from "../../assets/Ekart-Ecommerse-Website.gif";
+import Image2 from "../../assets/ViteReact-image.gif";
 import Image3 from "../../assets/discord-clone.gif";
 import Image4 from "../../assets/Random-Gif-generator.gif";
 import Image5 from "../../assets/Top Course-Project.gif";
