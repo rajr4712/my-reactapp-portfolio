@@ -1,5 +1,5 @@
 .skills_container {
-    grid-template-columns: repeat(1, 350px);   /* if Backend skill want to add then */
+    grid-template-columns: repeat(1, 500px);   /* if Backend skill want to add then */
     column-gap: 3rem;
     justify-content: center;
 }
