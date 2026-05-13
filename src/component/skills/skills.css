@@ -26,8 +26,10 @@
 
 .skills_group {
     display: grid;
+    grid-template-columns: repeat(2, 1fr);
     align-items: flex-start;
-    row-gap: 1rem;
+    column-gap: 3rem;
+    row-gap: 1.5rem;
 }
 
 .skills_data{
